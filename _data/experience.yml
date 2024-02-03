@@ -1,19 +1,28 @@
 # Jobs
-# VP of Global Communications
+
 - company: Max Planck Institute for Software Systems (MPI SWS)
   position: Research Software Engineer
   duration: Aug, 2023 &mdash; Present
   summary: Working under Dr Krishna Gummadi to explore different aspects of LLMs. Some areas we've explored/are exploring are	<ul class="resume-item-list"><li>Memorization in LLMs</li><li>Evaluating factual knowledge in LLMs</li><li>Can LLMs learn regular grammars?</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: EleutherAI
+  position: Open Source Contributor
+  duration:  Dec, 2022 &mdash; Present
+  summary: Working on predicting memorization behavior in LLMs by finding which strings from the training data will be memorized. Previously worked on the Pythia model suite.
 
+- company: Laboratory for Computational Social Systems (LCS2)
+  position: Undergraduate Student Researcher
+  duration: June, 2021 &mdash; Present
+  summary: Worked on multiple projects ranging from hate speech detection to investigation finetuning settings. Currently working on benchmarking reasoning capabilities of LLMs.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Goldman Sachs
+  position: Summer Analyst
+  duration: May, 2023 - July, 2023
+  summary: Worked in the Finance, Planning & Analysis Engineering division towards revamping the central hub of the department. Also built POCs based on user feedback to improve the search and access experience on the webapp.
+  
+- company: Google Summer of Code - TensorFlow
+  position: Summer Analyst
+  duration: May, 2022 - Sept, 2022
+  summary: Worked with Matthew Watson & Chen Qian towards adding support for data augmentation layers to KerasNLP a library under the Keras/TensorFlow Ecosystem which aims to build industry oriented NLP Solutions. I also contributed to several bug fixes and other utilities such as tokenizers and transformer encoder & decoder.
+  
+

@@ -2,9 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: Probing Critical Learning Dynamics of PLMs for Hate Speech Detection
-  role: Co-Founder & Organizer
+  role: Sarah Masud*, <b>Mohammad Aflah Khan</b>*, Vikram Goyal, Md Shad Akhtar, Tanmoy Chakraborty
+  duration: 2024
   url: https://arxiv.org/abs/2304.01373
-  description: Sarah Masud*, <b>Mohammad Aflah Khan</b>*, Vikram Goyal, Md Shad Akhtar, Tanmoy Chakraborty </br> Proceedings of The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL) [2024]
+  description: Proceedings of The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL) [2024]
 
 - project: "Overview of the HASOC Subtrack at FIRE 2023: Identification of Tokens Contributing to Explicit Hate in English by Span Detection"
   url: https://arxiv.org/abs/2311.09834

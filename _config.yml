@@ -23,7 +23,10 @@ resume_contact_email:           "aflah20082@iiitd.ac.in"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hey, how's it going? I'm Aflah, a senior studying at Indraprastha Institute of Information Technology, Delhi (IIIT-D). You can usually find me engrossed in backend engineering, natural language processing (NLP), and deep learning. What really interests me is the idea of using NLP for social good. Currently I'm involved in exploring large language models, detecting hate speech, and leveraging NLP to tackle other societal challenges. It's a wild ride, and I'm excited to make a positive impact with my research.</p>"
+resume_header_intro: "<p>
+Hi, I'm Aflah, a senior at IIIT-Delhi. I specialize in backend engineering, NLP, and deep learning, with a keen interest in applying NLP for social good. Currently, my research involves large language models, hate speech detection, and leveraging NLP to address various societal challenges.</p> </br>
+<b>Open to researcher/research engineer roles</b>"
+"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

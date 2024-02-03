@@ -2,10 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: Probing Critical Learning Dynamics of PLMs for Hate Speech Detection
+  role: Co-Founder & Organizer
   url: https://arxiv.org/abs/2304.01373
   description: Sarah Masud*, <b>Mohammad Aflah Khan</b>*, Vikram Goyal, Md Shad Akhtar, Tanmoy Chakraborty </br> Proceedings of The 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL) [2024]
 
-- project: Pythia - A Suite for Analyzing Large Language Models Across Training and Scaling
+- project: "Overview of the HASOC Subtrack at FIRE 2023: Identification of Tokens Contributing to Explicit Hate in English by Span Detection"
+  url: https://arxiv.org/abs/2311.09834
+  description: Sarah Masud, <b>Mohammad Aflah Khan</b>, Md. Shad Akhtar, Tanmoy Chakraborty </br> Forum for Information Retrieval Evaluation (FIRE) [2023]
+
+- project: "Pythia:  A Suite for Analyzing Large Language Models Across Training and Scaling"
   url: https://arxiv.org/abs/2304.01373
   description: Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, <b>Mohammad Aflah Khan</b>, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar Van Der Wal </br> Proceedings of The 40th International Conference on Machine Learning (ICML) [2023]
 
@@ -16,3 +21,7 @@
 - project: "Beyond Negativity: Re-Analysis and Follow-Up Experiments on Hope Speech Detection"
   url: https://arxiv.org/abs/2306.14939
   description: <b>Mohammad Aflah Khan</b>, Neemesh Yadav, Mohit Jain & Sanyam Goyal </br> The First Tiny Papers Track at Eleventh International Conference on Learning Representations (ICLR) [2023]
+
+- project: "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization"
+  url: https://arxiv.org/abs/2206.04007
+  description: Sarah Masud, Manjot Bedi, <b>Mohammad Aflah Khan</b>, Md Shad Akhtar, Tanmoy Chakraborty </br> Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining [2022]

@@ -1,10 +1,28 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Selected for Amazon ML Summer School 2022
+  organization: Amazon
+  year: 2022
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Finalist
+  organization: Anveshan Hackathon
+  year: 2022
+
+- award: Runner-Up
+  organization: Byld Hackathon
+  year: 2021
+
+- award: Runner-Up
+  organization: Association for Computing Machinery (ACM) IIITD Induction Ideathon
+  year: 2021
+
+- award: All India Rank 491
+  organization: JEE Mains Paper 2
+  year: 2020
+
+- award: Top 0.66 Percentile
+  organization: JEE Mains Paper 1
+  year: 2020
+
+- award: All India Rank 130
+  organization: Undegraduate Entrance Examination (UGEE)
+  year: 2020

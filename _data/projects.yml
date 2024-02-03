@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
+- project: Pythia - A Suite for Analyzing Large Language Models Across Training and Scaling
+  role: 
   duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  url: https://arxiv.org/abs/2304.01373
+  description: Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, Mohammad Aflah Khan, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar Van Der Wal </br> Proceedings of the 40th International Conference on Machine Learning (ICML) [2023]
 
 # Springfield Community Outreach Group
 - project: Springfield Community Outreach Group

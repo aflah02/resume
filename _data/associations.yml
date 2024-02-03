@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: The Technical Symposium on Computer Science Education (SIGCSE TS)
-  role: Reviewer
-  year: 2024
-  url: https://sigcse2024.sigcse.org/
-
 - organization: "FIRE HASOC Task 3: Identification of Tokens Contributing to Explicit Hate in Text by Span Detection"
   role: Organizer
   year: 2023
   url: https://lcs2.in/hatenorm-2023/
+
+- organization: The Technical Symposium on Computer Science Education (SIGCSE TS)
+  role: Reviewer
+  year: 2023
+  url: https://sigcse2024.sigcse.org/
 
 - organization: The 7th Workshop on Online Abuse and Harms (WOAH)
   role: Reviewer

@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: The Technical Symposium on Computer Science Education (SIGCSE TS)
+  role: Reviewer
+  year: 2023
+  url: https://sigcse2024.sigcse.org/
+
 - organization: "FIRE HASOC Task 3: Identification of Tokens Contributing to Explicit Hate in Text by Span Detection"
   role: Organizer
   year: 2023
@@ -10,6 +15,14 @@
   role: Reviewer
   year: 2023
   url: https://sigcse2024.sigcse.org/
+
+- organization: "Max Planck Institute for Software Systems: MPI SWS"
+  role: "Talk on Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"
+  year: July, 2023
+  
+- organization: "Goldman Sachs Internal NLP Paper Reading Club"
+  role: "Talk on Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling"
+  year: June, 2023
 
 - organization: The 7th Workshop on Online Abuse and Harms (WOAH)
   role: Reviewer

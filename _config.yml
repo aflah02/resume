@@ -54,6 +54,8 @@ resume_social_links:
   resume_website_url:           "https://aflah02.github.io/"
   # resume_medium_url:            "https://medium.com/@jglovier"
   resume_youtube_url:           "https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA"
+  resume_gscholar_url:          "https://scholar.google.com/citations?view_op=list_works&hl=en&user=IM_mP38AAAAJ"
+  resume_semanticscholar_url:   "https://www.semanticscholar.org/author/Mohammad-Aflah-Khan/2168771748"
 resume_print_social_links:      true
 
 # Design settings

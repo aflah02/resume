@@ -11,8 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mohammad Aflah Khan"
-resume_title_line1:                   "Researching @ MPI-SWS, Eleuther AI & LCS2"
-resume_title_line2:                   "Incoming Analyst @ Goldman Sachs"
+resume_title_line1:                   "Researching @ MPI-SWS, Eleuther AI & LCS2 · Incoming Analyst @ Goldman Sachs"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "aflah20082@iiitd.ac.in"

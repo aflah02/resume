@@ -40,9 +40,9 @@
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
-        <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+        <a target="_blank"  href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
-        <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
+        <a target="_blank"  class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
         {% endif %}
 
@@ -108,7 +108,7 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a target="_blank"  href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
@@ -166,7 +166,7 @@
 
         {% for association in site.data.associations %}
         <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
+          <h3 class="resume-item-title" itemprop="name">{% if association.url %}<a target="_blank"  href="{{ association.url }}">{{ association.organization }}</a>{% else %}{{ association.organization }}{% endif %}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ association.role }} &bull; {{ association.year }}</h4>
           <p class="resume-item-copy">{{ association.summary }}</p>
         </div>
@@ -187,7 +187,7 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
-            <!-- <li><a href={{ link.url }} itemprop="url">{{ link.description }}</a></li> -->
+            <!-- <li><a target="_blank"  href={{ link.url }} itemprop="url">{{ link.description }}</a></li> -->
             <li>{{ link.description }}</li>
             {% endfor %}
           </ul>
@@ -237,7 +237,7 @@
 
       <footer class="page-footer">
         <p class="footer-line">© Mohammad Aflah Khan</p>
-        <p class="footer-line">Template Credits - <a href="https://github.com/jglovier/resume-template">GitHub</a></p>
+        <p class="footer-line">Template Credits - <a target="_blank"  href="https://github.com/jglovier/resume-template">GitHub</a></p>
       </footer>
 
     </div>

@@ -14,13 +14,13 @@
   description: Forum for Information Retrieval Evaluation (FIRE)
 
 - project: "Pythia:  A Suite for Analyzing Large Language Models Across Training and Scaling"
-  role: Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, <i>Mohammad Aflah Khan</i>, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar Van Der Wal
+  role: Stella Biderman, Hailey Schoelkopf, Quentin Gregory Anthony, Herbie Bradley, Kyle O’Brien, Eric Hallahan, <i>Mohammad Aflah Khan</i>, Shivanshu Purohit, USVSN Sai Prashanth, Edward Raff, Aviya Skowron, Lintang Sutawika, Oskar van der Wal
   duration: 2023
   url: https://arxiv.org/abs/2304.01373
   description: Proceedings of The 40th International Conference on Machine Learning (ICML)
 
 - project: "The Art of Embedding Fusion: Optimizing Hate Speech Detection"
-  role: <i>Mohammad Aflah Khan</i>*, Neemesh Yadav*, Mohit Jain & Sanyam Goyal
+  role: <i>Mohammad Aflah Khan</i>*, Neemesh Yadav*, Mohit Jain, Sanyam Goyal
   duration: 2023
   url: https://arxiv.org/abs/2306.14939
   description: The First Tiny Papers Track at Eleventh International Conference on Learning Representations (ICLR)

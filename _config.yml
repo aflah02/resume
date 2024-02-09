@@ -56,6 +56,7 @@ resume_social_links:
   resume_youtube_url:           "https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA"
   resume_gscholar_url:          "https://scholar.google.com/citations?view_op=list_works&hl=en&user=IM_mP38AAAAJ"
   resume_semanticscholar_url:   "https://www.semanticscholar.org/author/Mohammad-Aflah-Khan/2168771748"
+  resume_substack_url:          "https://aflah02.substack.com/"
 resume_print_social_links:      true
 
 # Design settings

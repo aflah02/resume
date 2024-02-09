@@ -59,5 +59,10 @@
   <li class="icon-link-item"><a target="_blank"  href="{{ site.resume_social_links.resume_website_url }}" class="icon-link" itemprop="url">{% include icons/icon-website.html %}</a></li>
   {% endif %}
 
+  <!-- Substack link -->
+  {% if site.resume_social_links.resume_substack_url %}
+  <li class="icon-link-item"><a target="_blank"  href="{{ site.resume_social_links.resume_substack_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-substack.html %}</a></li>
+  {% endif %}
+
 </ul>
 {% endif %}

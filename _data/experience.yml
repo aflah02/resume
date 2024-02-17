@@ -21,7 +21,7 @@
   summary: Worked in the Finance, Planning & Analysis Engineering division towards revamping the central hub of the department. Also built POCs based on user feedback to improve the search and access experience on the webapp.
   
 - company: Google Summer of Code - TensorFlow
-  position: Summer Analyst
+  position: Open Source Developer
   duration: May, 2022 &mdash; Sept, 2022
   summary: Worked with Matthew Watson & Chen Qian towards adding support for data augmentation layers to KerasNLP a library under the Keras/TensorFlow Ecosystem which aims to build industry oriented NLP Solutions. I also contributed to several bug fixes and other utilities such as tokenizers and transformer encoder & decoder.
   

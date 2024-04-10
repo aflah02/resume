@@ -1,6 +1,16 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: The 8th Workshop on Online Abuse and Harms (WOAH)
+  role: Reviewer
+  year: 2024
+  url: https://www.workshopononlineabuse.com/
+
+- organization: ACL Rolling Review - February 2024
+  role: Reviewer
+  year: 2024
+  url: https://aclrollingreview.org/
+
 - organization: "FIRE HASOC Task 3: Identification of Tokens Contributing to Explicit Hate in Text by Span Detection"
   role: Organizer
   year: 2023

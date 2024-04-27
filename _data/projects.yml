@@ -1,6 +1,24 @@
 # Projects<i>
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: "Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction"
+  role: Qinyuan Wu, <i>Mohammad Aflah Khan</i>, Soumi Das, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P Gummadi, Evimaria Terzi
+  duration: 2024
+  url: https://arxiv.org/abs/2404.12957
+  description: Under Review
+
+- project: "Understanding the Mechanics and Dynamics of Memorisation in Large Language Models: A Case Study with Random Strings"
+  role: Till Speicher, <i>Mohammad Aflah Khan</i>, Qinyuan Wu, Vedant Nanda, Soumi Das, Bishwamittra Ghosh, Krishna P. Gummadi, Evimaria Terzi
+  duration: 2024
+  url: https://openreview.net/forum?id=ILStlRb1Sp
+  description: Under Review
+
+- project: "The Duality of Hope: A Critical Examination of Controversial Annotations in HopeEDI"
+  role: <i>Mohammad Aflah Khan</i>*, Neemesh Yadav*, Diksha Sethi*, Raghav Sahni*
+  duration: 2024
+  url: https://openreview.net/forum?id=r6QZ8YKSBd
+  description: The Second Tiny Papers Track at Eleventh International Conference on Learning Representations (ICLR)
+  
 - project: Probing Critical Learning Dynamics of PLMs for Hate Speech Detection
   role: Sarah Masud*, <i>Mohammad Aflah Khan</i>*, Vikram Goyal, Md Shad Akhtar, Tanmoy Chakraborty
   duration: 2024

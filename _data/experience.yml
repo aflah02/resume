@@ -13,7 +13,7 @@
 - company: Laboratory for Computational Social Systems (LCS2)
   position: Undergraduate Student Researcher
   duration: June, 2021 &mdash; May, 2024
-  summary: Worked on multiple projects ranging from hate speech detection to investigation finetuning settings. Currently working on benchmarking reasoning capabilities of LLMs.
+  summary: Worked on multiple projects ranging from hate speech normalization to building recommendations for finetuning better hate speech detectors. Also worked on QUENCH a benchmark for advanced reasoning capabilities of LLMs with special focus on Indic context.
 
 - company: Goldman Sachs
   position: Summer Analyst

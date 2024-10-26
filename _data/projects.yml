@@ -1,7 +1,7 @@
 # Projects<i>
 # uncomment the urls if you wish to display them, and add your own URL
 
-- project: "Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction"
+- project: "Towards Reliable Latent Knowledge Estimation in LLMs: Zero-Prompt Many-Shot Based Factual Knowledge Extraction"
   role: Qinyuan Wu, <i>Mohammad Aflah Khan</i>, Soumi Das, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P Gummadi, Evimaria Terzi
   duration: 2024
   url: https://arxiv.org/abs/2404.12957

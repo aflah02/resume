@@ -9,9 +9,7 @@
       <li>Knowledge acquisition and evaluation of factual knowledge in LLMs</li>
       <li>Retrieval-Augmented Generation (RAG) architectures</li>
       <li>Optimizing pre-training and inference for LLMs</li>
-      <li>Designed and developed several copilot-style tools for academics, which are actively used at multiple Max Planck Institutes (MPIs)</li>
       <li>Built and currently maintain key internal tools OpenChat (An internal chatbot), MaxCast (A research paper-to-podcast conversion service) & MaxChat (A document-based chat service). These services were developed from scratch, including hosting models on-premises and fine-tuning for optimal performance.
-      <li>Led multiple cross-institute collaborations</li>
       <li>Published and submitted research to top-tier (A*) conferences</li>
     </ul>
 

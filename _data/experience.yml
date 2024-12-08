@@ -3,7 +3,27 @@
 - company: Max Planck Institute for Software Systems (MPI-SWS)
   position: Research Software Engineer
   duration: April, 2024 &mdash; Present [Full Time] | Nov, 2023 &mdash; March, 2024 [Part time]  | Aug, 2023 &mdash; Oct,2023 [Intern]
-  summary: Working under Dr Krishna Gummadi to explore different aspects of LLMs. Some areas we've explored/are exploring are	<ul class="resume-item-list"><li>Memorization in LLMs</li><li>Evaluating factual knowledge in LLMs</li><li>Can LLMs learn regular grammars?</li></ul>
+  summary: <p>Under the guidance of Dr. Krishna Gummadi, I have been exploring various aspects of large language models (LLMs) with a focus on:</p>
+<ul class="resume-item-list">
+    <li>LLM memorization and the impact of Parameter-Efficient Fine-Tuning (PEFT) on memorization</li>
+    <li>Knowledge acquisition and evaluation of factual knowledge in LLMs</li>
+    <li>Retrieval-Augmented Generation (RAG) architectures</li>
+    <li>Optimizing pre-training and inference for LLMs</li>
+</ul>
+<p>In addition to research, I have:</p>
+<ul class="resume-item-list">
+    <li>Designed and developed several copilot-style tools for academics, which are actively used at multiple Max Planck Institutes (MPIs)</li>
+    <li>Built and currently maintain key internal tools:
+        <ul>
+            <li><b>OpenChat</b>: An internal chatbot</li>
+            <li><b>MaxCast</b>: A research paper-to-podcast conversion service</li>
+            <li><b>MaxChat</b>: A document-based chat service</li>
+        </ul>
+        These services were developed from scratch, including hosting models on-premises and fine-tuning for optimal performance.
+    </li>
+    <li>Led multiple cross-institute collaborations</li>
+    <li>Published and submitted research to top-tier (A*) conferences</li>
+</ul>
 
 - company: EleutherAI
   position: Open Source Contributor

@@ -9,7 +9,7 @@
     <li>Optimizing pre-training and inference for LLMs</li></ul><p>In addition to research, I have:</p>
 <ul class="resume-item-list-2">
     <li>Designed and developed several copilot-style tools for academics, which are actively used at multiple Max Planck Institutes (MPIs)</li>
-    <li>Built and currently maintain key internal tools:
+    <li>Built and currently maintain key internal tools
         <ul>
             <li><b>OpenChat</b>: An internal chatbot</li>
             <li><b>MaxCast</b>: A research paper-to-podcast conversion service</li>

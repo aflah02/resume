@@ -14,7 +14,7 @@
   description: The 18th ACM International Conference on Web Search and Data Mining (ACM WSDM 2025)
 
 - project: "QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs"
-  role: <i>Mohammad Aflah Khan</i>, Neemesh Yadav, Sarah Masud, Md Shad Akhtar
+  role: <i>Mohammad Aflah Khan</i>*, Neemesh Yadav*, Sarah Masud, Md Shad Akhtar
   duration: 2025
   url: https://aclanthology.org/2025.coling-main.303/
   description: The 31st International Conference on Computational Linguistics (COLING 2025)

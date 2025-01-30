@@ -2,7 +2,7 @@
 
 - company: Max Planck Institute for Software Systems (MPI-SWS)
   position: Research Software Engineer
-  duration: April, 2024 &mdash; Present [Full Time] | Nov, 2023 &mdash; March, 2024 [Part time]  | Aug, 2023 &mdash; Oct,2023 [Intern]
+  duration: April, 2024 &mdash; Present [Full Time] | Nov, 2023 &mdash; March, 2024 [Part time]  | Aug, 2023 &mdash; Oct, 2023 [Intern]
   summary: Working under Dr Krishna Gummadi to explore different aspects of LLMs. Some areas we've explored/are exploring are	
     <ul class="resume-item-list">    
       <li>LLM memorization and the impact of Parameter-Efficient Fine-Tuning (PEFT) on memorization</li>

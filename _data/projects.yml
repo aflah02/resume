@@ -1,6 +1,12 @@
 # Projects<i>
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: "Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon"
+  role: USVSN Sai Prashanth, Alvin Deng, Kyle O'Brien, Jyothir S V, <i>Mohammad Aflah Khan</i>, Jaydeep Borkar, Christopher A. Choquette-Choo, Jacob Ray Fuehne, Stella Biderman, Tracy Ke, Katherine Lee, Naomi Saphra
+  duration: 2024
+  url: https://arxiv.org/abs/2406.17746
+  description: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+
 - project: "Towards Reliable Latent Knowledge Estimation in LLMs: Zero-Prompt Many-Shot Based Factual Knowledge Extraction"
   role: Qinyuan Wu, <i>Mohammad Aflah Khan</i>, Soumi Das, Vedant Nanda, Bishwamittra Ghosh, Camila Kolling, Till Speicher, Laurent Bindschaedler, Krishna P Gummadi, Evimaria Terzi
   duration: 2025
@@ -10,14 +16,8 @@
 - project: "QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs"
   role: <i>Mohammad Aflah Khan</i>, Neemesh Yadav, Sarah Masud, Md Shad Akhtar
   duration: 2025
-  url: ""
+  url: https://aclanthology.org/2025.coling-main.303/
   description: The 31st International Conference on Computational Linguistics (COLING 2025)
-
-- project: "Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon"
-  role: USVSN Sai Prashanth, Alvin Deng, Kyle O'Brien, Jyothir S V, <i>Mohammad Aflah Khan</i>, Jaydeep Borkar, Christopher A. Choquette-Choo, Jacob Ray Fuehne, Stella Biderman, Tracy Ke, Katherine Lee, Naomi Saphra
-  duration: 2024
-  url: https://arxiv.org/abs/2406.17746
-  description: Under Review
 
 - project: "Understanding the Mechanics and Dynamics of Memorisation in Large Language Models: A Case Study with Random Strings"
   role: Till Speicher, <i>Mohammad Aflah Khan</i>, Qinyuan Wu, Vedant Nanda, Soumi Das, Bishwamittra Ghosh, Krishna P. Gummadi, Evimaria Terzi
